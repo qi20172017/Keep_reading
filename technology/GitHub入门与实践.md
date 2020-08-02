@@ -28,3 +28,7 @@ Fork 就是将 GitHub 的某个特定仓库复制到自己的账户下。
 
 还是参考以前的资料吧：https://github.com/qi20172017/weibo_spider/blob/master/project.md
 
+### 第四章 通过实际操作学习git
+
+这里的 HEAD 是指向当前分支中最新一次提交的指针。
+
