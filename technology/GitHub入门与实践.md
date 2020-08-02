@@ -39,3 +39,18 @@ git checkout feature-a  切换分支
 git checkout -  切换到上一个分支
 ```
 
+```
+git merge --no-ff fix-b   合并一个分支
+如果遇到冲突，手动删除了就好了，然后再add，commit
+```
+
+```
+git log 查看日志
+git reflog 查看所有日志
+git log --graph 图形化显示日志
+```
+
+```
+git commit --amend 可以修改上一次commit的信息
+```
+
