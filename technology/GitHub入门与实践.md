@@ -32,3 +32,11 @@ Fork 就是将 GitHub 的某个特定仓库复制到自己的账户下。
 
 这里的 HEAD 是指向当前分支中最新一次提交的指针。
 
+```
+git checkout -b feature-a     创建分支并切换
+git branch feature-a   创建分支
+git checkout feature-a  切换分支
+git checkout -  切换到上一个分支
+```
+
+这是feature-a分支中编辑的
