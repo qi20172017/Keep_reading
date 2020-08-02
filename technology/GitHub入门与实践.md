@@ -39,4 +39,3 @@ git checkout feature-a  切换分支
 git checkout -  切换到上一个分支
 ```
 
-这是feature-a分支中编辑的
